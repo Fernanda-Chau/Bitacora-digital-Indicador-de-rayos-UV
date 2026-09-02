@@ -25,7 +25,7 @@ Buscamos ayudar con la información sobre los rayos UV en el norte de Chile. Est
 
 ## Objetivo 
 
-[Describan del objetivo del proyecto ]
+Nuestro objetivo es desarrollar un dispositivo low-tech capaz de medir los niveles de radiación UV, que pueda ser útil para diversas aplicaciones, como el cuidado de la piel y el monitoreo de la exposición a los rayos UV en las plantas.
 
 ## Usuarios y contexto
 
