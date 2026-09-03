@@ -11,7 +11,7 @@
 
 Buscamos ayudar con la información sobre los rayos UV en el norte de Chile. Esto funciona para las personas que tienen problemas de la piel y, al mismo tiempo, permite saber si la radiación solar es favorable para las plantas.
 
-## Equipo
+## Equipo 10
 
 | Integrantes |
 |---|
@@ -21,7 +21,7 @@ Buscamos ayudar con la información sobre los rayos UV en el norte de Chile. Est
 
 ## Desafío o problematica  inicial
 
-[Describan el desafío con sus propias palabras.]
+El principal desafío del proyecto radica en calibrar y medir con precisión el índice UV mediante la programación y los sensores seleccionados. A esto se suman factores críticos como la optimización de los componentes que integran el dispositivo, la autonomía de las baterías y la facilidad de mantenimiento.
 
 ## Objetivo 
 
